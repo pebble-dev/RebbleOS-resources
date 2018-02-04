@@ -1,0 +1,3 @@
+[submodule "qemu-tintin-images"]
+	path = qemu-tintin-images
+	url = https://github.com/pebble/qemu-tintin-images
