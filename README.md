@@ -15,3 +15,10 @@ In this repository, you will find some files and subdirectories:
 * `qemu-tintin-images/` is a Git submodule with PebbleOS firmware images.
 * `build/` contains some intermediate build products (usually, extracted resource packs from official PebbleOS firmware).
 * `*.json` are resource descriptors for each supported RebbleOS device.
+
+## Building a `.json` file
+
+The format of the `.json` file is as described in `mkpack.py`, in the
+RebbleOS repository; please take a look at `snowy.json` for an example of
+extracting resources from an existing `pbpack` (from Pebble firmware), and
+at `tintin.json` for an example of importing resources from a file on disk.
