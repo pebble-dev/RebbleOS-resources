@@ -32,13 +32,13 @@
         { "name": "RESOURCE_ID_LECO_28_LIGHT_NUMBERS", "input": { "type": "file", "file": "placeholder" } },
         { "name": "RESOURCE_ID_LECO_42_NUMBERS", "input": { "type": "file", "file": "placeholder" } },
         { "name": "RESOURCE_ID_FONT_FALLBACK", "input": { "type": "file", "file": "placeholder" } },
-        { "name": "RESOURCE_ID_ALARM_BELL_RINGING", "input": { "type": "file", "file": "placeholder" } },
-        { "name": "RESOURCE_ID_MUSIC_PLAY", "input": { "type": "file", "file": "placeholder" } },
-        { "name": "RESOURCE_ID_MUSIC_PAUSE", "input": { "type": "file", "file": "placeholder" } },
-        { "name": "RESOURCE_ID_ALARM_BELL", "input": { "type": "file", "file": "placeholder" } },
-        { "name": "RESOURCE_ID_SPEECH_BUBBLE", "input": { "type": "file", "file": "placeholder" } },
-        { "name": "RESOURCE_ID_CLOCK", "input": { "type": "file", "file": "placeholder" } },
-        { "name": "RESOURCE_ID_ROUNDRECT_THING", "input": { "type": "file", "file": "placeholder" } }
-
+        { "name": "RESOURCE_ID_ALARM_BELL_RINGING", "input": { "type": "file", "file": "images/mono/bell-ringing.png" } },
+        { "name": "RESOURCE_ID_MUSIC_PLAY", "input": { "type": "file", "file": "images/mono/play.png" } },
+        { "name": "RESOURCE_ID_MUSIC_PAUSE", "input": { "type": "file", "file": "images/mono/pause.png" } },
+        { "name": "RESOURCE_ID_ALARM_BELL", "input": { "type": "file", "file": "images/mono/bell.png" } },
+        { "name": "RESOURCE_ID_SPEECH_BUBBLE", "input": { "type": "file", "file": "images/mono/speech.png" } },
+        { "name": "RESOURCE_ID_CLOCK", "input": { "type": "file", "file": "images/mono/clock.png" } },
+        { "name": "RESOURCE_ID_SPANNER", "input": { "type": "file", "file": "images/mono/spanner.png" } },
+        { "name": "RESOURCE_ID_UNKNOWN", "input": { "type": "file", "file": "images/mono/unknown-icon.png" } }
     ]
 }
