@@ -39,6 +39,9 @@
         { "name": "RESOURCE_ID_SPEECH_BUBBLE", "input": { "type": "file", "file": "images/rgb222/speech.png" } },
         { "name": "RESOURCE_ID_CLOCK", "input": { "type": "file", "file": "images/rgb222/clock.png" } },
         { "name": "RESOURCE_ID_SPANNER", "input": { "type": "file", "file": "images/rgb222/spanner.png" } },
-        { "name": "RESOURCE_ID_UNKNOWN", "input": { "type": "file", "file": "images/rgb222/unknown-icon.png" } }
+        { "name": "RESOURCE_ID_UNKNOWN", "input": { "type": "file", "file": "images/rgb222/unknown-icon.png" } },
+        { "name": "RESOURCE_ID_TO_MOON", "input": { "type": "file", "file": "images/rgb222/to-moon.png" } },
+        { "name": "RESOURCE_ID_REBBLE_LOGO_DARK", "input": { "type": "file", "file": "images/rgb222/rebble-logo-dark.png" } },
+        { "name": "RESOURCE_ID_REBBLE_LOGO_LIGHT", "input": { "type": "file", "file": "images/rgb222/rebble-logo-light.png" } }
     ]
 }
