@@ -1,5 +1,6 @@
 {
     "references": { "snowy": "build/pebble-snowy.pbpack" },
+    "palette": "pebble64",
     "resources": [
         { "name": "RESOURCE_ID_AGENCY_FB_60_THIN_NUMBERS_AM_PM", "input": { "type": "resource", "ref": "snowy", "id": 468 } },
         { "name": "RESOURCE_ID_AGENCY_FB_60_NUMBERS_AM_PM", "input": { "type": "resource", "ref": "snowy", "id": 469 } },
@@ -32,13 +33,13 @@
         { "name": "RESOURCE_ID_LECO_28_LIGHT_NUMBERS", "input": { "type": "resource", "ref": "snowy", "id": 62 } },
         { "name": "RESOURCE_ID_LECO_42_NUMBERS", "input": { "type": "resource", "ref": "snowy", "id": 61 } },
         { "name": "RESOURCE_ID_FONT_FALLBACK", "input": { "type": "resource", "ref": "snowy", "id": 55 } },
-        { "name": "RESOURCE_ID_ALARM_BELL_RINGING", "input": { "type": "file", "file": "images/rgb222/bell-ringing.png" } },
-        { "name": "RESOURCE_ID_MUSIC_PLAY", "input": { "type": "file", "file": "images/rgb222/play.png" } },
-        { "name": "RESOURCE_ID_MUSIC_PAUSE", "input": { "type": "file", "file": "images/rgb222/pause.png" } },
-        { "name": "RESOURCE_ID_ALARM_BELL", "input": { "type": "file", "file": "images/rgb222/bell.png" } },
-        { "name": "RESOURCE_ID_SPEECH_BUBBLE", "input": { "type": "file", "file": "images/rgb222/speech.png" } },
-        { "name": "RESOURCE_ID_CLOCK", "input": { "type": "file", "file": "images/rgb222/clock.png" } },
-        { "name": "RESOURCE_ID_SPANNER", "input": { "type": "file", "file": "images/rgb222/spanner.png" } },
-        { "name": "RESOURCE_ID_UNKNOWN", "input": { "type": "file", "file": "images/rgb222/unknown-icon.png" } }
+        { "name": "RESOURCE_ID_ALARM_BELL_RINGING", "input": { "type": "image", "file": "images/rgb222/bell-ringing.png" } },
+        { "name": "RESOURCE_ID_MUSIC_PLAY", "input": { "type": "image", "file": "images/rgb222/play.png" } },
+        { "name": "RESOURCE_ID_MUSIC_PAUSE", "input": { "type": "image", "file": "images/rgb222/pause.png" } },
+        { "name": "RESOURCE_ID_ALARM_BELL", "input": { "type": "image", "file": "images/rgb222/bell.png" } },
+        { "name": "RESOURCE_ID_SPEECH_BUBBLE", "input": { "type": "image", "file": "images/rgb222/speech.png" } },
+        { "name": "RESOURCE_ID_CLOCK", "input": { "type": "image", "file": "images/rgb222/clock.png" } },
+        { "name": "RESOURCE_ID_SPANNER", "input": { "type": "image", "file": "images/rgb222/spanner.png" } },
+        { "name": "RESOURCE_ID_UNKNOWN", "input": { "type": "image", "file": "images/rgb222/unknown-icon.png" } }
     ]
 }
