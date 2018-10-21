@@ -1,5 +1,6 @@
 {
     "references": { "tintin": "build/pebble-tintin.pbpack" },
+    "palette": "pebble2",
     "resources": [
         { "name": "RESOURCE_ID_AGENCY_FB_60_THIN_NUMBERS_AM_PM", "input": { "type": "resource", "ref": "tintin", "id": 51 } },
         { "name": "RESOURCE_ID_AGENCY_FB_60_NUMBERS_AM_PM", "input": { "type": "resource", "ref": "tintin", "id": 51 } },
@@ -37,13 +38,13 @@
         { "name": "RESOURCE_ID_EMOJI_24", "input": { "type": "resource", "ref": "tintin", "id": 36 } },
         { "name": "RESOURCE_ID_EMOJI_28", "input": { "type": "resource", "ref": "tintin", "id": 39 } },
         { "name": "RESOURCE_ID_FONT_FALLBACK", "input": { "type": "resource", "ref": "tintin", "id": 29 } },
-        { "name": "RESOURCE_ID_ALARM_BELL_RINGING", "input": { "type": "file", "file": "images/mono/bell-ringing.png" } },
-        { "name": "RESOURCE_ID_MUSIC_PLAY", "input": { "type": "file", "file": "images/mono/play.png" } },
-        { "name": "RESOURCE_ID_MUSIC_PAUSE", "input": { "type": "file", "file": "images/mono/pause.png" } },
-        { "name": "RESOURCE_ID_ALARM_BELL", "input": { "type": "file", "file": "images/mono/bell.png" } },
-        { "name": "RESOURCE_ID_SPEECH_BUBBLE", "input": { "type": "file", "file": "images/mono/speech.png" } },
-        { "name": "RESOURCE_ID_CLOCK", "input": { "type": "file", "file": "images/mono/clock.png" } },
-        { "name": "RESOURCE_ID_SPANNER", "input": { "type": "file", "file": "images/mono/spanner.png" } },
-        { "name": "RESOURCE_ID_UNKNOWN", "input": { "type": "file", "file": "images/mono/unknown-icon.png" } }
+        { "name": "RESOURCE_ID_ALARM_BELL_RINGING", "input": { "type": "image", "file": "images/mono/bell-ringing.png" } },
+        { "name": "RESOURCE_ID_MUSIC_PLAY", "input": { "type": "image", "file": "images/mono/play.png" } },
+        { "name": "RESOURCE_ID_MUSIC_PAUSE", "input": { "type": "image", "file": "images/mono/pause.png" } },
+        { "name": "RESOURCE_ID_ALARM_BELL", "input": { "type": "image", "file": "images/mono/bell.png" } },
+        { "name": "RESOURCE_ID_SPEECH_BUBBLE", "input": { "type": "image", "file": "images/mono/speech.png" } },
+        { "name": "RESOURCE_ID_CLOCK", "input": { "type": "image", "file": "images/mono/clock.png" } },
+        { "name": "RESOURCE_ID_SPANNER", "input": { "type": "image", "file": "images/mono/spanner.png" } },
+        { "name": "RESOURCE_ID_UNKNOWN", "input": { "type": "image", "file": "images/mono/unknown-icon.png" } }
     ]
 }
