@@ -1,5 +1,6 @@
 {
     "references": { "snowy": "build/pebble-snowy.pbpack" },
+    "palette": "pebble64",
     "resources": [
         { "name": "RESOURCE_ID_AGENCY_FB_60_THIN_NUMBERS_AM_PM", "input": { "type": "resource", "ref": "snowy", "id": 468 } },
         { "name": "RESOURCE_ID_AGENCY_FB_60_NUMBERS_AM_PM", "input": { "type": "resource", "ref": "snowy", "id": 469 } },

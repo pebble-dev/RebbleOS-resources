@@ -1,5 +1,6 @@
 {
     "references": { "tintin": "build/pebble-tintin.pbpack" },
+    "palette": "pebble2",
     "resources": [
         { "name": "RESOURCE_ID_AGENCY_FB_60_THIN_NUMBERS_AM_PM", "input": { "type": "resource", "ref": "tintin", "id": 51 } },
         { "name": "RESOURCE_ID_AGENCY_FB_60_NUMBERS_AM_PM", "input": { "type": "resource", "ref": "tintin", "id": 51 } },
