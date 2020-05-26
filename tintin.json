@@ -49,6 +49,8 @@
         { "name": "RESOURCE_ID_TO_MOON_BW", "input": { "type": "image", "file": "images/rgb222/to-moon.png" } },
         { "name": "RESOURCE_ID_REBBLE_LOGO_BW", "input": { "type": "image", "file": "images/rgb222/rebble-logo-bw.png" } },
         { "name": "RESOURCE_ID_CHECK_BLACK", "input": { "type": "image", "file": "images/mono/check_blackbg.png" } },
-        { "name": "RESOURCE_ID_DISMISS_BLACK", "input": { "type": "image", "file": "images/mono/dismiss_blackbg.png" } }
+        { "name": "RESOURCE_ID_DISMISS_BLACK", "input": { "type": "image", "file": "images/mono/dismiss_blackbg.png" } },
+        { "name": "RESOURCE_ID_RADIO", "input": { "type": "image", "file": "images/mono/radio.png" } },
+        { "name": "RESOURCE_ID_NOTIFICATION", "input": { "type": "image", "file": "images/mono/notification.png" } }
     ]
 }
