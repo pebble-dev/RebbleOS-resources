@@ -45,6 +45,7 @@
         { "name": "RESOURCE_ID_REBBLE_LOGO_DARK", "input": { "type": "image", "file": "images/rgb222/rebble-logo-dark.png" } },
         { "name": "RESOURCE_ID_REBBLE_LOGO_LIGHT", "input": { "type": "image", "file": "images/rgb222/rebble-logo-light.png" } },
         { "name": "RESOURCE_ID_CHECK_BLACK", "input": { "type": "image", "file": "images/mono/check_blackbg.png" } },
-        { "name": "RESOURCE_ID_DISMISS_BLACK", "input": { "type": "image", "file": "images/mono/dismiss_blackbg.png" } }
+        { "name": "RESOURCE_ID_DISMISS_BLACK", "input": { "type": "image", "file": "images/mono/dismiss_blackbg.png" } },
+        { "name": "RESOURCE_ID_TZDB", "input": { "type": "file", "file": "../build/tzdb", "generated": true } }
     ]
 }

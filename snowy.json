@@ -47,6 +47,7 @@
         { "name": "RESOURCE_ID_CHECK_BLACK", "input": { "type": "image", "file": "images/rgb222/check_blackbg.png" } },
         { "name": "RESOURCE_ID_DISMISS_BLACK", "input": { "type": "image", "file": "images/rgb222/dismiss_blackbg.png" } },
         { "name": "RESOURCE_ID_RADIO", "input": { "type": "image", "file": "images/rgb222/radio.png" } },
-        { "name": "RESOURCE_ID_NOTIFICATION", "input": { "type": "image", "file": "images/rgb222/notification.png" } }
+        { "name": "RESOURCE_ID_NOTIFICATION", "input": { "type": "image", "file": "images/rgb222/notification.png" } },
+        { "name": "RESOURCE_ID_TZDB", "input": { "type": "file", "file": "../build/tzdb", "generated": true } }
     ]
 }
